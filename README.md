@@ -1,4 +1,4 @@
 # first.demo
-This is my first repository
-br<>
-Author Satyam Kumar
+This is my first GIT Repository.
+<br>
+Author ~ Satyam Kumar
